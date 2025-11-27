@@ -8,6 +8,6 @@ jstr = 10;
 
 on_ground = 0
 
-window_set_fullscreen(true)
+window_set_fullscreen(false)
 
 audio_play_sound(funtime,1,false)
